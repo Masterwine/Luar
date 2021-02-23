@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 <addon id="script.luar"
-  version="0.7.5"
+  version="0.8.1"
   name="Luar"
   provider-name="The Dreamers">
   <requires>
